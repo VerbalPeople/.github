@@ -1,4 +1,4 @@
-## Verbal People is an advocacy group for verbally-focussed people.
+# Verbal People is an advocacy group for verbally-focussed people.
 
 Being verbally-focused means having a natural affinity for **words**, **language**, and **narrative-based thinking**.. While sometimes associated with [Non-Verbal Learning Disorder](https://verbalpeople.org/nvld) (NVLD or NLD), verbal thinking represents a distinct cognitive style that brings unique strengths and perspectives to our world.
 
